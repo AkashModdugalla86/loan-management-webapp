@@ -1,4 +1,4 @@
-**Loan Management System**
+**Loan Management System** 
 A full-stack Loan Management System built using Python, Django, and MySQL.
 This project allows users to apply for loans, track EMI payments, and manage loan records through an admin dashboard.
  **Features**
